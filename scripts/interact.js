@@ -25,6 +25,7 @@ async function main() {
   console.log(`Message is ${message}`);
 
   console.log("Updating message...");
+  // ENTER NEW MESSAGE IN UPDATE FUNCTION IN LINE BELOW
   const tx = await helloWorldContract.update("woah X.X");
   await tx.wait();
 
