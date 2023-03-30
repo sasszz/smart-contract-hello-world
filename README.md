@@ -1,5 +1,7 @@
 # Hello World Smart Contract
-**Technologies:** *Hardhat | Ethers.js | Metamask | Alchemy SDK | Node*
+**Technologies:** *Hardhat | Ethers.js | Metamask | Alchemy SDK | Node | Polygon Mumbai Testnet*
+
+![Polygon Mumbai Testnet](README_imgs/logo.svg)
 
 **Tutorial:** [Web3 University](https://www.web3.university/tracks/create-a-smart-contract/interact-with-your-smart-contract)
 
@@ -19,3 +21,6 @@
 1. `npx hardhat compile`
 2. Edit interact.js with new message for update function
 2. `npx hardhat run scripts/interact.js`
+
+**Deployed Smart Contract:**
+![Deployed Smart Contract](README_imgs/deployed_smart_contract.png)
