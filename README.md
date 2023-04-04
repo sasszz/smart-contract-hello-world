@@ -1,7 +1,7 @@
 # Hello World Smart Contract
 **Technologies:** *Hardhat | Ethers.js | Metamask | Alchemy SDK | Node | Polygon Mumbai Testnet*
 
-![Polygon Mumbai Testnet](README_imgs/logo.svg)
+![Project's Technologies](README_imgs/technologies.png)
 
 **Tutorial:** [Web3 University](https://www.web3.university/tracks/create-a-smart-contract/interact-with-your-smart-contract)
 
