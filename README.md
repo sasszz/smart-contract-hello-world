@@ -1,4 +1,4 @@
-# Hello World Smart Contract
+# Polygon Mumbai Testnet Smart Contract
 
 **Technologies:** _Node | Metamask | Polygon Mumbai Testnet | Alchemy | Hardhat | Solidity | Ethers.js_
 
