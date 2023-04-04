@@ -1,6 +1,6 @@
 # Hello World Smart Contract
 
-**Technologies:** _Node | Metamask | Polygon Mumbai Testnet| Alchemy | Hardhat | Solidity | Ethers.js_
+**Technologies:** _Node | Metamask | Polygon Mumbai Testnet | Alchemy | Hardhat | Solidity | Ethers.js_
 
 ![Project's Technologies](README_imgs/technologies.png)
 
